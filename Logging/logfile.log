@@ -1,0 +1,90 @@
+2022-12-19 16:30:45,989 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:30:46,016 :INFO : test_endToend :iphone X
+2022-12-19 16:30:46,030 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:30:46,046 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:30:46,060 :INFO : test_endToend :Blackberry
+2022-12-19 16:30:46,745 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:30:52,623 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:31:40,729 :INFO : test_formSubmission :first name is Rahul
+2022-12-19 16:31:41,402 :INFO : test_formSubmission :first name is Anshika
+2022-12-19 16:31:41,402 :INFO : test_formSubmission :first name is Anshika
+2022-12-19 16:34:10,840 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 16:34:11,363 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:34:11,363 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:43:30,229 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 16:43:31,079 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:43:31,079 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:44:20,535 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:44:20,560 :INFO : test_endToend :iphone X
+2022-12-19 16:44:20,573 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:44:20,587 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:44:20,599 :INFO : test_endToend :Blackberry
+2022-12-19 16:44:22,954 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:44:28,513 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:45:40,397 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:45:40,421 :INFO : test_endToend :iphone X
+2022-12-19 16:45:40,434 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:45:40,447 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:45:40,461 :INFO : test_endToend :Blackberry
+2022-12-19 16:45:42,393 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:45:48,250 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:46:39,626 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:46:39,651 :INFO : test_endToend :iphone X
+2022-12-19 16:46:39,664 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:46:39,678 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:46:39,692 :INFO : test_endToend :Blackberry
+2022-12-19 16:46:40,854 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:46:46,454 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:50:04,491 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:50:04,517 :INFO : test_endToend :iphone X
+2022-12-19 16:50:04,530 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:50:04,543 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:50:04,555 :INFO : test_endToend :Blackberry
+2022-12-19 16:50:06,675 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:50:13,031 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:53:27,477 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:53:27,502 :INFO : test_endToend :iphone X
+2022-12-19 16:53:27,518 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:53:27,533 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:53:27,549 :INFO : test_endToend :Blackberry
+2022-12-19 16:53:28,581 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:53:36,088 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:53:45,399 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 16:53:48,151 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:53:48,151 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:57:12,260 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:57:12,288 :INFO : test_endToend :iphone X
+2022-12-19 16:57:12,302 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:57:12,316 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:57:12,341 :INFO : test_endToend :Blackberry
+2022-12-19 16:57:14,450 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:57:20,280 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:57:35,367 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:57:35,396 :INFO : test_endToend :iphone X
+2022-12-19 16:57:35,411 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:57:35,425 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:57:35,438 :INFO : test_endToend :Blackberry
+2022-12-19 16:57:36,452 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:57:41,987 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:57:47,819 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 16:57:48,357 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:57:48,357 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:58:50,721 :INFO : test_endToend :getting all the card titles
+2022-12-19 16:58:50,749 :INFO : test_endToend :iphone X
+2022-12-19 16:58:50,762 :INFO : test_endToend :Samsung Note 8
+2022-12-19 16:58:50,776 :INFO : test_endToend :Nokia Edge
+2022-12-19 16:58:50,789 :INFO : test_endToend :Blackberry
+2022-12-19 16:58:51,738 :INFO : test_endToend :Entering country name as ind
+2022-12-19 16:58:57,664 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 16:59:07,332 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 16:59:08,071 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 16:59:08,071 :INFO : test_formSubmission :first name is Raghavendra
