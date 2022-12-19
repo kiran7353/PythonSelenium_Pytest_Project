@@ -10,11 +10,12 @@ driver = None
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath("Selenium_Python_PytestFramework")))
 CHROME_DRIVER_PATH = PROJECT_DIR + "\\ExecutableDrivers\\chromedriver.exe"
 FIREFOX_DRIVER_PATH = PROJECT_DIR + "\\ExecutableDrivers\\geckodriver.exe"
-for path in Path(PROJECT_DIR+"\\TestResults").glob("**/*"):
+for path in Path(PROJECT_DIR + "\\TestResults").glob("**/*"):
     if path.is_file():
         path.unlink()
     elif path.is_dir():
         shutil.rmtree(path)
+
 
 def pytest_addoption(parser):
     parser.addoption(
@@ -28,9 +29,6 @@ def setup(request):
     if os.path.exists(PROJECT_DIR + "\\tests\\output.json"):
         os.remove(PROJECT_DIR + "\\tests\\output.json")
         os.remove(PROJECT_DIR + "\\tests\\pytest_html_report.html")
-        # files = glob.glob(PROJECT_DIR + "\\TestResults\\*")
-        # for f in files:
-        #     os.remove(f)
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
         driver = webdriver.Chrome(executable_path=CHROME_DRIVER_PATH)
@@ -63,7 +61,7 @@ def pytest_runtest_makereport(item):
         xfail = hasattr(report, 'wasxfail')
         if (report.skipped and xfail) or (report.failed and not xfail):
             file_name = report.nodeid.replace("::", "_") + ".png"
-            _capture_screenshot(PROJECT_DIR+"\\TestResults\\"+file_name)
+            _capture_screenshot(PROJECT_DIR + "\\TestResults\\" + file_name)
             if file_name:
                 html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
                        'onclick="window.open(this.src)" align="right"/></div>' % file_name

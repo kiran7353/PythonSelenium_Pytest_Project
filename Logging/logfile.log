@@ -115,3 +115,13 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2022-12-19 17:26:52,970 :INFO : test_formSubmission :first name is Kiran
 2022-12-19 17:26:53,555 :INFO : test_formSubmission :first name is Raghavendra
 2022-12-19 17:26:53,555 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 18:16:03,173 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 18:20:24,807 :INFO : test_endToend :getting all the card titles
+2022-12-19 18:20:24,869 :INFO : test_endToend :iphone X
+2022-12-19 18:20:24,886 :INFO : test_endToend :Samsung Note 8
+2022-12-19 18:20:24,903 :INFO : test_endToend :Nokia Edge
+2022-12-19 18:20:24,920 :INFO : test_endToend :Blackberry
+2022-12-19 18:20:25,392 :INFO : test_endToend :Entering country name as ind
+2022-12-19 18:20:32,118 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 18:20:43,736 :INFO : test_formSubmission :first name is Raghavendra
