@@ -28,9 +28,9 @@ def setup(request):
     if os.path.exists(PROJECT_DIR + "\\tests\\output.json"):
         os.remove(PROJECT_DIR + "\\tests\\output.json")
         os.remove(PROJECT_DIR + "\\tests\\pytest_html_report.html")
-        files = glob.glob(PROJECT_DIR + "\\TestResults\\*")
-        for f in files:
-            os.remove(f)
+        # files = glob.glob(PROJECT_DIR + "\\TestResults\\*")
+        # for f in files:
+        #     os.remove(f)
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
         driver = webdriver.Chrome(executable_path=CHROME_DRIVER_PATH)

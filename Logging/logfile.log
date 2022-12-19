@@ -96,3 +96,22 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2022-12-19 17:22:00,842 :INFO : test_endToend :Entering country name as ind
 2022-12-19 17:22:06,473 :INFO : test_endToend :Text received from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 17:25:59,555 :INFO : test_endToend :getting all the card titles
+2022-12-19 17:25:59,598 :INFO : test_endToend :iphone X
+2022-12-19 17:25:59,621 :INFO : test_endToend :Samsung Note 8
+2022-12-19 17:25:59,645 :INFO : test_endToend :Nokia Edge
+2022-12-19 17:25:59,668 :INFO : test_endToend :Blackberry
+2022-12-19 17:26:00,109 :INFO : test_endToend :Entering country name as ind
+2022-12-19 17:26:06,031 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 17:26:33,715 :INFO : test_endToend :getting all the card titles
+2022-12-19 17:26:33,740 :INFO : test_endToend :iphone X
+2022-12-19 17:26:33,754 :INFO : test_endToend :Samsung Note 8
+2022-12-19 17:26:33,773 :INFO : test_endToend :Nokia Edge
+2022-12-19 17:26:33,786 :INFO : test_endToend :Blackberry
+2022-12-19 17:26:35,616 :INFO : test_endToend :Entering country name as ind
+2022-12-19 17:26:42,637 :INFO : test_endToend :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-19 17:26:52,970 :INFO : test_formSubmission :first name is Kiran
+2022-12-19 17:26:53,555 :INFO : test_formSubmission :first name is Raghavendra
+2022-12-19 17:26:53,555 :INFO : test_formSubmission :first name is Raghavendra
